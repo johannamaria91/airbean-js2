@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/airbean-js2/static/css/main.4dc21c6b.chunk.css",
+    "main.js": "/airbean-js2/static/js/main.46c816f2.chunk.js",
+    "main.js.map": "/airbean-js2/static/js/main.46c816f2.chunk.js.map",
+    "runtime-main.js": "/airbean-js2/static/js/runtime-main.d114dae8.js",
+    "runtime-main.js.map": "/airbean-js2/static/js/runtime-main.d114dae8.js.map",
+    "static/js/2.f6476ed1.chunk.js": "/airbean-js2/static/js/2.f6476ed1.chunk.js",
+    "static/js/2.f6476ed1.chunk.js.map": "/airbean-js2/static/js/2.f6476ed1.chunk.js.map",
+    "static/js/3.a8fa9ebf.chunk.js": "/airbean-js2/static/js/3.a8fa9ebf.chunk.js",
+    "static/js/3.a8fa9ebf.chunk.js.map": "/airbean-js2/static/js/3.a8fa9ebf.chunk.js.map",
+    "index.html": "/airbean-js2/index.html",
+    "static/css/main.4dc21c6b.chunk.css.map": "/airbean-js2/static/css/main.4dc21c6b.chunk.css.map",
+    "static/js/2.f6476ed1.chunk.js.LICENSE.txt": "/airbean-js2/static/js/2.f6476ed1.chunk.js.LICENSE.txt",
+    "static/media/add2.ff1f61b8.svg": "/airbean-js2/static/media/add2.ff1f61b8.svg",
+    "static/media/airbeanlanding.75eb3c2c.svg": "/airbean-js2/static/media/airbeanlanding.75eb3c2c.svg",
+    "static/media/arrowdown.fb2952b4.svg": "/airbean-js2/static/media/arrowdown.fb2952b4.svg",
+    "static/media/arrowup.c15c917f.svg": "/airbean-js2/static/media/arrowup.c15c917f.svg",
+    "static/media/circle.76291dae.svg": "/airbean-js2/static/media/circle.76291dae.svg",
+    "static/media/close.ba276e97.svg": "/airbean-js2/static/media/close.ba276e97.svg",
+    "static/media/drone.48571d77.svg": "/airbean-js2/static/media/drone.48571d77.svg",
+    "static/media/graphicsfooter.c9b703d2.svg": "/airbean-js2/static/media/graphicsfooter.c9b703d2.svg",
+    "static/media/graphicsheader.ff40b9cb.svg": "/airbean-js2/static/media/graphicsheader.ff40b9cb.svg",
+    "static/media/icon.3d7b4f54.svg": "/airbean-js2/static/media/icon.3d7b4f54.svg",
+    "static/media/intrographicleft.fa26fb28.svg": "/airbean-js2/static/media/intrographicleft.fa26fb28.svg",
+    "static/media/intrographicright.036a015b.svg": "/airbean-js2/static/media/intrographicright.036a015b.svg",
+    "static/media/line.bc4c7c5c.svg": "/airbean-js2/static/media/line.bc4c7c5c.svg",
+    "static/media/navicon.3e9672e2.svg": "/airbean-js2/static/media/navicon.3e9672e2.svg",
+    "static/media/newTriangle.2d1f814e.svg": "/airbean-js2/static/media/newTriangle.2d1f814e.svg",
+    "static/media/profile.c79d32af.svg": "/airbean-js2/static/media/profile.c79d32af.svg",
+    "static/media/shoppingbag.6f2ed0dd.svg": "/airbean-js2/static/media/shoppingbag.6f2ed0dd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d114dae8.js",
+    "static/js/2.f6476ed1.chunk.js",
+    "static/css/main.4dc21c6b.chunk.css",
+    "static/js/main.46c816f2.chunk.js"
+  ]
+}
