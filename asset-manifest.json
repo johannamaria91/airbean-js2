@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/airbean-js2/static/css/main.4dc21c6b.chunk.css",
-    "main.js": "/airbean-js2/static/js/main.46c816f2.chunk.js",
-    "main.js.map": "/airbean-js2/static/js/main.46c816f2.chunk.js.map",
+    "main.js": "/airbean-js2/static/js/main.b77789dc.chunk.js",
+    "main.js.map": "/airbean-js2/static/js/main.b77789dc.chunk.js.map",
     "runtime-main.js": "/airbean-js2/static/js/runtime-main.d114dae8.js",
     "runtime-main.js.map": "/airbean-js2/static/js/runtime-main.d114dae8.js.map",
     "static/js/2.f6476ed1.chunk.js": "/airbean-js2/static/js/2.f6476ed1.chunk.js",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.d114dae8.js",
     "static/js/2.f6476ed1.chunk.js",
     "static/css/main.4dc21c6b.chunk.css",
-    "static/js/main.46c816f2.chunk.js"
+    "static/js/main.b77789dc.chunk.js"
   ]
 }
